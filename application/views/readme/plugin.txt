@@ -1,0 +1,30 @@
+Bootstrap 3.3.7
+Font Awesome
+Ionicons
+iCheck
+DataTables
+Theme style
+AdminLTE Skins
+Pace style
+Toastr style
+Text editor
+Google Font
+
+jQuery 3
+jQuery UI 1.11.4
+UI tooltip
+Bootstrap 3.3.7
+BTConfirm
+PACE
+DataTables
+Morris.js charts
+Bootstrap WYSIHTML5
+Slimscroll
+iCheck
+FastClick
+NOTIFY
+AdminLTE App
+AdminLTE dashboard
+AdminLTE demo
+Custom js
+Toastr js
